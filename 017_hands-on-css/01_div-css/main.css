@@ -1,0 +1,9 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    border-radius: 90px;
+    border: groove 10px; 
+    border-color: aqua;
+
+}
