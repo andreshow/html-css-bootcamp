@@ -1,0 +1,59 @@
+h1 { font-size:32px !important; line-height:1em !important; font-weight:normal !important; /*color:#555 !important;*/ padding: 20px 0 15px 0; color: #1367b4 !important; font-family: proRegular;}
+
+.gCaption, .gCap {display: inline-block;width: 180px;  }
+
+input[type=checkbox]+label, input[type=radio]+label{ display: inline-block; margin-left: 10px;}
+
+.ASPForm { height: 100%; }
+.container{ position: relative;} 
+.mTopLine1 {
+    margin: 0 0;
+    height: 41px;
+ }
+.mMenu ul{ list-style-type: none;  } 
+.mMenu ul li{ display: inline-block;}
+.mMenu ul li a{ display: inline-block; margin: 0 10px 0 0;}
+
+.mTopLine2{ min-height: 60px; margin-bottom: 10px;}
+
+
+
+.mCont{}
+.mLeft{}
+.mCenter{ margin: 0 auto 0 auto;box-sizing: border-box;}
+
+.mBottom{ margin: 10px 0;}
+.mFooter{
+    margin: 0;
+ }
+.gProgressBar{ position: absolute; top: 20px;  right: 10px;}
+.defSlogan{ font-size: 32px; line-height: 1em; text-align: center; margin: 30px 0;}
+
+.shRight{float: right;  border: solid 1px #ccc; padding: 10px; margin:95px 20px 0 20px; position: relative; top: -50px;}
+.shRight>ul{ list-style-type:none; margin: 0; padding: 0; }
+.tbsLeft{ }
+body {
+    color: #555555;
+}
+
+input[type="checkbox"]
+{
+      margin: -2px 0 0!important;
+}
+
+.main-cont {
+ /*left: 50%;
+  margin-left: -700px;
+  position: absolute;
+  width: 1400px;*/
+
+
+
+}
+
+
+ 
+ 
+
+
+

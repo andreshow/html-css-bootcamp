@@ -1,0 +1,43 @@
+* {
+    /* border: 1px dashed hotpink; */
+    font-family: 'Courier New', Courier, monospace;
+}
+
+html {
+    font-size: 1rem;
+}
+
+/* ul:link {
+    color: blue;
+}
+
+ul:visited {
+    color: white;
+}    */
+
+
+ul {
+    list-style-type: none;
+    /* display: inline-block; */
+}
+
+
+li {
+    border-radius: 50px;
+    border: 1px solid darkgray;
+    display: inline-block;
+}
+
+a {
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 50px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+
+li:hover {
+    background-color: #00FF00;
+}

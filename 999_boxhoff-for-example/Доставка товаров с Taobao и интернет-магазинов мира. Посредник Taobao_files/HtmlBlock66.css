@@ -1,0 +1,17 @@
+.techno{ margin: 30px 0 10px 0;}
+.technologies { float: left;width: 280px; font-size: 0.9em; margin: 60px 0px 20px 35px;}
+
+
+.teHeader { width: 100%;margin-bottom: 20px;padding: 10px 0 10px 50px;}
+
+
+
+
+.technologies1 .teHeader {background: url('/themes/default/Images/tech1.png') no-repeat;
+}
+.technologies2 .teHeader {
+background: url('/themes/default/Images/tech2.png') no-repeat;
+}
+.technologies3 .teHeader {
+background: url('/themes/default/Images/tech3.png') no-repeat;
+}

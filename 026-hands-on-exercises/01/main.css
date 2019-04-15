@@ -1,0 +1,51 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.one {
+    font-family: serif;
+}
+
+.two {
+    font-family: sans-serif;
+}
+
+span {
+    letter-spacing: 2rem;
+}
+
+div {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 128px;
+    text-decoration: line-through;
+    text-shadow: 12px 5px 5px red;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: red;
+    border: 1px dashed brown;
+}
+

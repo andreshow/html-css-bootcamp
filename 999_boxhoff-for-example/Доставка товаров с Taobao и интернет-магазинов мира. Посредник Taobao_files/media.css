@@ -1,0 +1,107 @@
+﻿
+ 
+ /* Little screen*/
+    @media (max-width: 979px)
+    {
+       .footerLogoContainer, .footerEmail, .footerSocContainer {
+           width:49%;
+           display: inline-block;
+           float:none;
+       }
+       .span12 {
+           width: 100%;
+       }
+       .footerLogin {
+            float: none;
+            text-align: center;
+            /* padding-top: 15px; */
+            width: inherit;
+        }
+        .footerTableWrapper ul li
+        {
+            display:inline-block;
+            max-width:49%;
+            width:49%;
+        }
+        .footerTableWrapper ul li:last-child{
+            padding-left: inherit;
+        }
+        .footerTableWrapper ul {
+            text-align: center;
+        }
+        .mCopyright
+        {
+            padding-top:0px;
+            background-image: inherit;
+        }
+        .mBottom
+        {
+        }
+        .scrollup
+        {
+            bottom: 25px !important;
+            right: 10px !important;
+        }
+       .footerTableWrapper ul li a {
+            color: grey;
+            font-size: 13px;
+        }
+        .footerTableWrapper ul li a:hover {
+            color: black;
+        }
+        .mFooter .span12, .mBottom .span12 
+        {
+            margin-left:0 !important;
+            width:auto !important;
+        }
+        .footerTableWrapper 
+        {
+            margin: inherit !important;
+        }
+        .footerPay
+        {
+            float:none;
+        }
+    }
+    
+    /* Extra little screen */    
+    @media (max-width: 655px)
+    {
+        .footerLogoContainer, .footerEmail, .footerSocContainer {
+           display: block;
+           float:none;
+           margin-top:10px;
+       }
+        
+        .footerLng
+        {
+            display:none;
+            
+        }
+        .footerPay
+        {
+            margin-left:0px !important;    
+            
+        }
+        #eventsList
+        {
+            width:200px;
+        }
+        .dropdown:hover > .dropdown-menu {
+            margin-left: -200px !important;
+        }
+        
+        .footerTableWrapper ul li
+        {
+            display:block;
+            max-width:100%;
+            width:100%;
+        }
+    }
+    
+    /* Big screen*/
+    @media (min-width: 980px)
+    {
+        
+    
+    }
