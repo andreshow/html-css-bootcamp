@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-flow: row nowrap;
+    height: 600px;
+    border: 2px dotted darkseagreen;
+}
+
+div {
+    flex-grow: 1;
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    border: 1px dotted darkolivegreen;
+    text-align: center;
+}
+
+.boss {
+    align-self: flex-end;
+}

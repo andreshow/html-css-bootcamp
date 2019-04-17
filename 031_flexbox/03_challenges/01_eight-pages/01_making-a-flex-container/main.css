@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* border: 2px solid darkorange;  */
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 2px solid blue;
+}
