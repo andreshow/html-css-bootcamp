@@ -1,0 +1,33 @@
+#global-navigation-div {
+    display: none;
+}
+
+/* .event-wrapper-area {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+} */
+
+#main-nav-menu-mobile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 62px;
+    background-color: inherit;
+}
+
+#main-small-logo-mobile {
+    height: 90px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    align-self: auto;
+} 
+
+.event-wrapper-area {
+    display: none;
+}
